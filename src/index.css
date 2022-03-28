@@ -10,4 +10,14 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    text-decoration: none;
 }
+
+ul,li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+
+
